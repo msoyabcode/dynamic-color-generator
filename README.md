@@ -1,16 +1,50 @@
-# React + Vite
+# Dynamic Color Generator 🎨
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Dynamic Color Generator is a React.js project that is currently under development.
+The goal of this project is to build an interactive application that dynamically generates and applies random colors to the user interface.
 
-Currently, two official plugins are available:
+This project is part of my daily practice to strengthen my React fundamentals and improve my frontend development skills.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚧 Project Status
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🛠️ **Under Development**  
+Features and functionality will be added step by step.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🎯 Project Goals
+
+- Practice React fundamentals
+- Understand state management using `useState`
+- Learn dynamic styling in React
+- Build clean and interactive UI using Tailwind CSS
+- Follow proper GitHub workflow with regular commits
+
+---
+
+## 🛠️ Technologies Used
+
+- React.js
+- Tailwind CSS
+- JavaScript (ES6)
+- Vite
+
+---
+
+## 📌 Planned Features
+
+- Random background color generation
+- Display hex color code
+- Button to generate new colors
+- Smooth color transition effects
+- Responsive and clean UI
+
+---
+
+## 📦 Setup Instructions
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/dynamic-color-generator.git
