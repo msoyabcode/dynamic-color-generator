@@ -1,50 +1,26 @@
-# Dynamic Color Generator 🎨
+# 🎨 React Color Generator App
 
-Dynamic Color Generator is a React.js project that is currently under development.
-The goal of this project is to build an interactive application that dynamically generates and applies random colors to the user interface.
+A simple and interactive React application that generates random hex colors, stores a unique color history, and allows users to copy and reuse colors easily.
 
-This project is part of my daily practice to strengthen my React fundamentals and improve my frontend development skills.
-
----
-
-## 🚧 Project Status
-
-🛠️ **Under Development**  
-Features and functionality will be added step by step.
+This project is built as part of my React learning journey, focusing on clean state management, React hooks, and real-world frontend features.
 
 ---
 
-## 🎯 Project Goals
+## 🚀 Features
 
-- Practice React fundamentals
-- Understand state management using `useState`
-- Learn dynamic styling in React
-- Build clean and interactive UI using Tailwind CSS
-- Follow proper GitHub workflow with regular commits
-
----
-
-## 🛠️ Technologies Used
-
-- React.js
-- Tailwind CSS
-- JavaScript (ES6)
-- Vite
+- 🎲 Generate random hex color codes
+- 🧠 Store color history using React state
+- ❌ Prevent duplicate colors in history
+- 🎯 Click on any previous color to reuse it
+- 📋 Copy current color code to clipboard
+- 🎨 Smooth background color transition
 
 ---
 
-## 📌 Planned Features
+## 🛠️ Tech Stack
 
-- Random background color generation
-- Display hex color code
-- Button to generate new colors
-- Smooth color transition effects
-- Responsive and clean UI
+- **React**
+- **JavaScript (ES6)**
+- **Tailwind CSS**
+- **Clipboard API**
 
----
-
-## 📦 Setup Instructions
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/dynamic-color-generator.git
